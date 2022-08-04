@@ -4,7 +4,7 @@
   </div>
 
   <div class="container">
-    <label for="uname"><b>Username</b></label>
+    <label for="uname"><b>username</b></label>
     <input type="text" placeholder="Enter username" name="uname" required>
 
     <label for="psw"><b>Password</b></label>
